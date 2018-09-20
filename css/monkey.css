@@ -12,13 +12,14 @@ html {
 #monkey {
   position: relative;
   max-width:406px;
-  min-width:1170px;
+  ;
 }
 @media (min-width:100px)
 {
 #monkey 
 {
   position: static;
+  min-width:1170px
   top: 30px;
   bottom: 50px;
 }
