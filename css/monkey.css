@@ -13,7 +13,7 @@ html {
 {
   #monkey
   {
-  position: relative;
+  position: static;
   top: 100px;
   bottom: 800px;
   left:50px;
@@ -23,7 +23,7 @@ html {
 {
   #monkey
   {
-  position: static;
+  position: relative;
   top: 800px;
   bottom: 50px;
   
