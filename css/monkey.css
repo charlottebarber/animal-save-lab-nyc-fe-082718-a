@@ -10,7 +10,7 @@ html {
 
 /* Write your solution here */
 #monkey {
-  position: relative;
+  position: absolute;
   min-width:406px;
   max-width:1170px;
 }
