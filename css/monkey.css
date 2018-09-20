@@ -11,6 +11,6 @@ html {
 /* Write your solution here */
 #monkey {
   position: absolute;
-  min-width:406px;
-  max-width:1170px;
+  max-width:406px;
+  min-width:1170px;
 }
