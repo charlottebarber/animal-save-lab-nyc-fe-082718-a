@@ -10,9 +10,16 @@ html {
 
 /* Write your solution here */
 #monkey {
-  position: relative;
+  position: static;
   max-width:406px;
   min-width:1170px;
+}
+@media (min-width:100px)
+{
+#monkey 
+{
+  position: relative;
   top: 30px;
   bottom: 50px;
+}
 }
